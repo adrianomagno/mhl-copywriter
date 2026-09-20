@@ -41,7 +41,7 @@ Instrucao de execucao: crie um por vez, na ordem acima, comecando pelos 3 fixos.
 
 ## Anatomia em 8 etapas
 
-0 CAPA: texto na tela que segura o scroll de quem ve sem som; e tambem o titulo do post. Prefira a capa narrativa em 3 atos (regra abaixo); a promessa direta que pode citar a solucao continua valida quando o formato pedir. Sem emoji.
+0 CAPA: texto na tela que segura o scroll de quem ve sem som; e tambem o titulo do post. **Capa narrativa em 3 atos, obrigatoria em peca sem audio** (carrossel, post estatico): ali a capa e a unica coisa que a pessoa le antes de decidir se para. Em Reel, onde o hook falado entra logo atras, a promessa direta que cita a solucao continua valida. Sem emoji.
 
 1 HOOK (0-3s): conflito imediato com tensao futura.
 
@@ -74,7 +74,7 @@ Erro classico que a camada corrige: hook que comeca pela conclusao entrega a res
 
 ## Teste do Gancho
 
-Aplica-se ao HOOK falado (a abertura), nao a capa. Se qualquer resposta for nao, reescreva o hook do zero:
+Aplica-se ao HOOK falado (a abertura) **e a CAPA de toda peca sem audio** (carrossel, post estatico). Nessas pecas nao existe hook falado: a capa E o hook. Rode o teste nas duas camadas. Se qualquer resposta for nao, reescreva do zero:
 
 1. Cria lacuna? A pessoa fica curiosa pra continuar, ou o hook ja entregou tudo nos 3s? Hook previsivel morre. Hook com especificidade ou contra-intuitivo prende.
 2. Bate na dor real da persona (do mapa-3d dele)? Toca uma dor ou resolve um problema que ela tem de verdade, nao dica tecnica batida que ela ja cansou de ver.
@@ -174,7 +174,7 @@ Nao inclua Texto do 1o Comentario nem entregavel de automacao nesta fase inicial
 
 Excecao da caixinha de pergunta: entrega titulo do card, pergunta e resposta. Sem CTA, sem legenda, sem alt text.
 
-Forma do carrossel (quando o formato for CARROSSEL): card 1 e a capa (promessa direta ou narrativa em 3 atos, e o titulo do post); cards do meio (3 a 6) levam 1 ideia por card, frases de ate 90 caracteres, seguindo a mesma curva da anatomia (quebra de crenca, explicacao, consequencia, exemplo, micro-ensino); o ultimo card e o CTA do estagio. Sem emoji no corpo dos cards. No Roteiro Completo, escreva o texto de cada card numerado (Card 1, Card 2...).
+Forma do carrossel (quando o formato for CARROSSEL): card 1 e a capa, **sempre narrativa em 3 atos** (setup, conflito, queda), e e o titulo do post; cards do meio (3 a 6) levam 1 ideia por card, frases de ate 90 caracteres, seguindo a mesma curva da anatomia (quebra de crenca, explicacao, consequencia, exemplo, micro-ensino); o ultimo card e o CTA do estagio. Sem emoji no corpo dos cards. No Roteiro Completo, escreva o texto de cada card numerado (Card 1, Card 2...).
 
 Regra dura: o card e um SET DE GRAVACAO, nao um documento de estrategia. Zero bastidor, zero justificativa de copy dentro do card. Se a linha nao for falada, lida na tela ou postada, ela nao pertence ao card.
 
@@ -219,6 +219,7 @@ Rode este checklist antes de entregar CADA peca. Qualquer item que falhar, corri
 Qualquer um destes itens invalida a peca:
 
 - Capa com emoji.
+- Capa de peca sem audio escrita como promessa direta, sem setup, conflito e queda.
 - Hook generico que entrega tudo nos 3 segundos.
 - Exemplo sem cena.
 - Consequencia sem pico.
