@@ -41,7 +41,7 @@ Instrucao de execucao: crie um por vez, na ordem acima, comecando pelos 3 fixos.
 
 ## Anatomia em 8 etapas
 
-0 CAPA: texto na tela que segura o scroll de quem ve sem som; e tambem o titulo do post. **Capa narrativa em 3 atos, obrigatoria em peca sem audio** (carrossel, post estatico): ali a capa e a unica coisa que a pessoa le antes de decidir se para. Em Reel, onde o hook falado entra logo atras, a promessa direta que cita a solucao continua valida. Sem emoji.
+0 CAPA: texto na tela que segura o scroll de quem ve sem som; e tambem o titulo do post. **Capa narrativa em 3 atos, obrigatoria em TODA peca, Reel incluido** (carrossel, post estatico, Reel). Em peca sem audio a capa e a unica coisa que a pessoa le antes de decidir se para; em Reel ela e o gancho de quem assiste sem som, que e a maioria de quem ve. Em Reel a capa nao repete o hook falado: as duas sao camadas do mesmo empilhamento. Promessa direta sobrevive so como formato do molde de ensino de ferramenta. Sem emoji.
 
 1 HOOK (0-3s): conflito imediato com tensao futura.
 
@@ -70,11 +70,11 @@ Instrucao de execucao: crie um por vez, na ordem acima, comecando pelos 3 fixos.
 
 Erro classico que a camada corrige: hook que comeca pela conclusao entrega a resposta antes de criar tensao.
 
-**Capa narrativa em 3 atos:** setup (expectativa positiva), conflito (julgamento silencioso), queda inesperada. Exemplo canonico: "Te indicaram. / O cliente pesquisou quem e voce. / E foi embora." So a consequencia nao doi porque falta o setup: a capa precisa de setup mais queda, nao so dor direta. Nesse formato a capa nao e copia literal do hook verbal: capa e hook sao camadas do mesmo empilhamento (o titulo do card continua sendo a frase da capa).
+**Capa narrativa em 3 atos:** setup (expectativa positiva), conflito (julgamento silencioso), queda inesperada. Exemplo canonico: "Te indicaram. / O cliente pesquisou quem e voce. / E foi embora." So a consequencia nao doi porque falta o setup: a capa precisa de setup mais queda, nao so dor direta. Teste de setup, obrigatorio: corte a primeira linha; se a capa continuar funcionando, ela nao tinha setup, tinha so consequencia, e volta pro Draft 2. Nesse formato a capa nao e copia literal do hook verbal: capa e hook sao camadas do mesmo empilhamento (o titulo do card continua sendo a frase da capa).
 
 ## Teste do Gancho
 
-Aplica-se ao HOOK falado (a abertura) **e a CAPA de toda peca sem audio** (carrossel, post estatico). Nessas pecas nao existe hook falado: a capa E o hook. Rode o teste nas duas camadas. Se qualquer resposta for nao, reescreva do zero:
+Aplica-se ao HOOK falado (a abertura) **e a CAPA de TODA peca, Reel incluido** (carrossel, post estatico, Reel). Em peca sem audio a capa E o hook. Rode o teste nas duas camadas, em duas passagens. Se qualquer resposta for nao, reescreva do zero:
 
 1. Cria lacuna? A pessoa fica curiosa pra continuar, ou o hook ja entregou tudo nos 3s? Hook previsivel morre. Hook com especificidade ou contra-intuitivo prende.
 2. Bate na dor real da persona (do mapa-3d dele)? Toca uma dor ou resolve um problema que ela tem de verdade, nao dica tecnica batida que ela ja cansou de ver.
@@ -219,7 +219,8 @@ Rode este checklist antes de entregar CADA peca. Qualquer item que falhar, corri
 Qualquer um destes itens invalida a peca:
 
 - Capa com emoji.
-- Capa de peca sem audio escrita como promessa direta, sem setup, conflito e queda.
+- Capa de qualquer peca, Reel incluido, escrita como promessa direta, sem setup, conflito e queda.
+- Capa diferente do titulo do post. A amarracao dura e capa igual ao titulo; capa igual ao hook falado nao e exigencia.
 - Hook generico que entrega tudo nos 3 segundos.
 - Exemplo sem cena.
 - Consequencia sem pico.
