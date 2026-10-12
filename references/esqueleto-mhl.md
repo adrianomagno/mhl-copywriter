@@ -2,9 +2,9 @@
 
 Este arquivo e a FORMA. O conteudo (persona, pilares, inimigos, oferta, voz) vem SEMPRE dos seus arquivos raio-x-7ps e mapa-3d. Nunca invente recheio: se um dado de recheio nao estiver nesses arquivos, pergunte antes de criar a peca.
 
-## Missao lowfii
+## Missao
 
-Criar conteudo lowfii, sem cara de propaganda, que entretem, educa, domina atencao e gera clientes, e ao mesmo tempo e descoberto pelo Instagram, citado por IAs e virado resposta direta em assistentes de busca.
+Criar conteudo sem cara de propaganda, que entretem, educa, domina atencao e gera clientes, e ao mesmo tempo e descoberto pelo Instagram, citado por IAs e virado resposta direta em assistentes de busca.
 
 Regra canonica do metodo: todo conteudo e transformacional. O roteiro nunca para na dor. Nomeia a cura entre o micro-ensino e o fechamento. Diagnostico sem cura gera ansiedade. Diagnostico mais cura gera "preciso falar com essa pessoa".
 
@@ -59,7 +59,7 @@ Instrucao de execucao: crie um por vez, na ordem acima, comecando pelos 3 fixos.
 
 8 CTA COM TENSAO, forca a se posicionar (proibido "O que voce acha?", "Comenta aqui", "Faz sentido?").
 
-**Abertura fundida (regra fixa):** os 3 hooks (A principal, B confronto direto, C quebra de crenca) sao SEMPRE fundidos num bloco corrido, na ordem A, B, C. Nunca como opcoes soltas. Sem quarto hook. O roteiro termina no CTA. A assinatura de autoridade entra antes ou depois do CTA, dentro do proprio roteiro (nao so na legenda).
+**Abertura fundida (regra fixa):** os 3 hooks (A principal, B confronto direto, C quebra de crenca) sao SEMPRE fundidos num bloco corrido, na ordem A, B, C. Nunca como opcoes soltas. Sem quarto hook. O roteiro inclui o CTA e a assinatura de autoridade falada, antes ou depois dele (nao so na legenda).
 
 **Empilhamento em 3 camadas temporais:** A-B-C e a estrutura DO QUE se fala; as camadas temporais sao COMO isso se distribui nos primeiros 5 segundos, junto com a capa. Nao sao 3 frases coladas: sao camadas simultaneas, cada uma com funcao e tempo proprios, e cada frase forca a proxima.
 
@@ -86,12 +86,13 @@ Segunda pessoa ("Voce") sempre mais forte que terceira ("Quem"). Confronto apont
 
 - **M1**: "Me segue aqui pra [resolver a dor]." Suave, sem oferta, sem direct.
 - **M2 Nutricao**: salvar mais compartilhar mais posicionamento.
-- **M2 Engajamento**: "Quer receber [isca] que resolve [dor]? Comenta [GATILHO] que eu te mando no direct."
+- **M2 Engajamento**: "Quer receber [isca] que resolve [dor]? Comenta [PALAVRA-CHAVE] que eu te mando no direct."
 - **M3**: "Faca como [pessoa do caso]. Clica no link da bio ou me chama no direct pra [promessa]."
 - **M4** (somente anuncio): oferta explicita da consulta ou diagnostico do aluno. A oferta em si vem do recheio dele.
+- **Lowfii** (estilo de gravacao cru e genuino, como o corte de aula): por padrao sem CTA, fechando com a assinatura de autoridade falada. Pode levar CTA quando a peca tiver objetivo de conversao.
 - **Caixinha de pergunta**: sem bloco de CTA. Fecha na propria resposta mais o sticker de interacao nativa. Proibido "me segue", direct, oferta ou link. Nivel: M2 dominante (M1 ocasional), nunca M3 nem M4. No titulo do card, a caixinha leva o nivel como qualquer peca (ex: `CAIXINHA M2 #NN.mmYY ...`).
 
-Regra vale em qualquer estagio: nunca citar duracao cronometrada ("30 minutos", "em X minutos") em oferta ou diagnostico. Soa a propaganda e contraria o lowfii. Mantem a promessa, tira o relogio.
+Regra vale em qualquer estagio: nunca citar duracao cronometrada ("30 minutos", "em X minutos") em oferta ou diagnostico. Soa a propaganda, e conteudo MHL nao tem cara de propaganda. Mantem a promessa, tira o relogio.
 
 ## Dois modos de confronto (60/40)
 
@@ -130,13 +131,13 @@ Regras: mencione pelo menos 1 inimigo por roteiro, sempre pelo nome, nunca por n
 
 ## Nomenclatura do titulo do card
 
-Padrao: `[emoji funil][FORMATO] M[nivel] - [subnivel] #NN.mmYY [GATILHO se houver] [titulo da capa] | [Lista]`
+Padrao: `[emoji funil][FORMATO] M[nivel] - [subnivel] #NN.mmYY [PALAVRA-CHAVE se houver] [titulo da capa] | [Lista]`
 
 - Emoji do funil colado ao FORMATO: verde M1, azul M2, laranja M3, vermelho M4 (M4 so em anuncio, nunca no feed organico); roxo apenas nos 2 posts fixos de autoridade.
 - FORMATO em caixa alta: REELS, CARROSSEL, POST, CAIXINHA.
 - Subnivel so aparece no M2 de REELS: Engajamento ou Nutricao. Caixinha nao leva subnivel.
 - `#NN.mmYY`: numero sequencial do criativo dentro do mes, mais mes abreviado, mais ano de 2 digitos. Zero a esquerda no numero, sem ponto entre mes e ano. Exemplo: `#01.ago26`, `#02.ago26`. A contagem zera todo mes, nao e sequencial global. Pareia 1 pra 1 com o arquivo de video correspondente no seu Drive. Se voce nao souber qual foi o ultimo numero usado no mes, pergunte ao aluno antes de numerar.
-- Colchete: `[GATILHO]` da isca quando houver; sem colchete quando nao tem.
+- Colchete: `[PALAVRA-CHAVE]` da isca quando houver (a palavra que o lead comenta); sem colchete quando nao tem.
 - Titulo da capa: a frase completa, igual ao hook principal e a capa.
 - Depois do pipe unico, a Lista do seu quadro.
 
@@ -196,7 +197,7 @@ Metricas que importam: comentarios, compartilhamentos, salvamentos, DMs. Curtida
 
 **Noticia Narrativa**: use quando o tema for noticia ou movimento de mercado. Estrutura: hook-manchete com fatos em rajada, um por linha, sem opiniao; acumulo de especificidade real que cria a sensacao de "isso e grande"; "o que isso significa", voce entra como interprete e traduz o fato pra realidade da persona; virada dos dois caminhos (quem tem estrutura usa como alavanca, quem nao tem perde espaco) fechando numa frase-inversao propria; entrega pratica com CTA. Tom: narrador de telejornal na abertura, depois mentor-interprete.
 
-**Reacao por Remate**: use quando existir um clipe de autoridade externa que vale por si so. Estrutura: caption de retencao on-screen, clipe inteiro sem corte, remate seu de 25 a 35 segundos (generoso, lowfii), CTA. Tom: amigo empolgado, nao narrador. O clipe carrega o peso, o remate e a liberacao.
+**Reacao por Remate**: use quando existir um clipe de autoridade externa que vale por si so. Estrutura: caption de retencao on-screen, clipe inteiro sem corte, remate seu de 25 a 35 segundos (generoso, cru), CTA. Tom: amigo empolgado, nao narrador. O clipe carrega o peso, o remate e a liberacao.
 
 ## Checklist de conformidade
 
@@ -210,7 +211,7 @@ Rode este checklist antes de entregar CADA peca. Qualquer item que falhar, corri
 - Sem cronometro em oferta ou diagnostico.
 - Assinatura de autoridade presente no conteudo, antes ou depois do CTA.
 - Zero travessao em qualquer texto.
-- Gatilho de comentario inedito, conferido contra os roteiros ja criados nas conversas anteriores.
+- Palavra-chave de comentario inedita, conferido contra os roteiros ja criados nas conversas anteriores.
 - Recheio certo: pilares, inimigos e persona sao os SEUS, zero dado de outra pessoa.
 - Hook passa no Teste do Gancho.
 

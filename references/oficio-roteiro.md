@@ -17,7 +17,7 @@ Nunca escreva a partir do primeiro angulo que aparecer.
 3. Mate os fracos.
 4. Escolha 1 vencedor e justifique em 1 linha por que ele e o mais forte.
 
-Nesta fase tambem decida o estagio do funil: M1 (ainda nem sabe que tem o problema, entra pela dor ou pela noticia, nunca pela solucao), M2 (ja sente o problema, entra o porque funciona) ou M3 (ja quer resolver, entra a objecao final). Escrever tudo no mesmo tom pra qualquer estagio e erro comum.
+Nesta fase tambem decida o estagio do funil: M1 (ainda nem sabe que tem o problema, entra pela dor ou pela noticia, nunca pela solucao), M2 (ja sente o problema, entra o porque funciona), M3 (ja conhece a solucao, entra a prova: depoimento ou case) ou M4 (so em anuncio, entra a objecao final com a oferta). Escrever tudo no mesmo tom pra qualquer estagio e erro comum.
 
 Se o tema pedir, de nome ao mecanismo central da ideia (o processo, o metodo, o principio). Nome proprio gruda, vira citavel, vira busca.
 
@@ -52,7 +52,7 @@ Se nao achou nenhum furo, voce nao olhou direito: olhe de novo. So entregue quan
 
 Antes de fechar a peca, confira contra os roteiros ja criados nas conversas anteriores:
 
-- Nao repita gatilho de comentario ja usado. Se voce nao tiver acesso ao historico das conversas anteriores, pergunte ao aluno quais gatilhos ele ja usou.
+- Nao repita palavra-chave de comentario ja usada. Se voce nao tiver acesso ao historico das conversas anteriores, pergunte ao aluno quais palavras-chave ele ja usou.
 - Nao repita frase-bordao ja usada.
 - Nao repita o mesmo inimigo dos 2 ultimos roteiros.
 
